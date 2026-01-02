@@ -1,43 +1,5 @@
 {
-  "PRODUCTS": {
-    "1767308172087": {
-      "name": "باڤي",
-      "price": 2300,
-      "stock": 0,
-      "image": "https://raw.githubusercontent.com/dz-one1/suifane/main/images/product-1767308172087-1767308282862-IMG-6732.png",
-      "description": "مريح",
-      "category": "",
-      "availableSizes": [
-        "M",
-        "XL"
-      ],
-      "availableColors": [
-        "رمادي"
-      ],
-      "featured": false,
-      "createdAt": "2026-01-01T22:56:12.087Z",
-      "updatedAt": "2026-01-01T23:01:32.553Z",
-      "colorImages": {
-        "رمادي": {
-          "images": [
-            "https://raw.githubusercontent.com/dz-one1/suifane/main/images/product-1767308172087-رمادي-1767308410687-IMG-6732.png"
-          ],
-          "ageRanges": [
-            {
-              "ageFrom": " ",
-              "ageTo": " ",
-              "size": "L"
-            }
-          ]
-        }
-      },
-      "sizeGuide": {
-        "enabled": false,
-        "guide": {}
-      },
-      "ageRanges": []
-    }
-  },
+  "PRODUCTS": {},
   "DELIVERY_PRICES": {
     "01 - أدرار": {
       "home": 1100,
@@ -288,8 +250,7 @@
     "freeDeliveryProducts": [
       1765137505304,
       1765145035052,
-      1765145814607,
-      1767308172087
+      1765145814607
     ]
   },
   "DISCOUNTS": {
@@ -538,8 +499,8 @@
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 996,
-    "remainingDays": 28,
+    "currentPoints": 994,
+    "remainingDays": 30,
     "lastReset": "2026-01-01T23:10:43.361Z",
     "planType": "gratuit",
     "monthlyPoints": 1000,
@@ -618,7 +579,7 @@
         "user": "admin"
       }
     ],
-    "lastUpdated": "2026-01-01T23:15:19.439Z"
+    "lastUpdated": "2026-01-02T12:17:20.432Z"
   },
   "PIXEL_CODES": {
     "facebook": {
