@@ -6185,7 +6185,7 @@
             // Tester la clé en essayant d'accéder à l'API GitHub
             testGitHubKey(fullKey, suffix).then(isValid => {
                 if (isValid) {
-                    storageKeys['suiflane'] = {
+                    storageKeys['suifane'] = {
                         suffix: suffix,
                         username: 'dz-one1',
                         branch: 'main',
@@ -6244,8 +6244,8 @@
         }
         
         function getDefaultRepo() {
-            if (storageKeys['suiflane']) {
-                return 'suiflane';
+            if (storageKeys['suifane']) {
+                return 'suifane';
             }
             
             const repos = Object.keys(storageKeys);
