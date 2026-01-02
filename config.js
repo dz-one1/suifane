@@ -241,7 +241,7 @@ const STORE_CONFIG = {
   },
   "FREE_DELIVERY": {
     "desk": {
-      "enabled": true,
+      "enabled": false,
       "minAmount": 0,
       "wilayas": [],
       "minQuantity": 1
@@ -284,13 +284,13 @@ const STORE_CONFIG = {
     "instagramUrl": "",
     "messengerUrl": "",
     "viberNumber": "",
-    "whatsappNumber": "213666666666",
-    "whatsappUrl": "https://wa.me/213666666666"
+    "whatsappNumber": "213555555555",
+    "whatsappUrl": "https://wa.me/213555555555"
   },
   "GOOGLE_SHEETS": {
     "url": "",
     "description": "  جدول الطلبات",
-    "autoUpdate": false
+    "autoUpdate": true
   },
   "AVAILABLE_COLORS": [
     "أبيض",
@@ -504,9 +504,9 @@ const STORE_CONFIG = {
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 460,
-    "remainingDays": 29,
-    "lastReset": "2025-12-30T17:33:54.743Z",
+    "currentPoints": 994,
+    "remainingDays": 30,
+    "lastReset": "2026-01-01T23:10:43.361Z",
     "planType": "gratuit",
     "monthlyPoints": 1000,
     "resetPeriod": 30,
@@ -584,7 +584,7 @@ const STORE_CONFIG = {
         "user": "admin"
       }
     ],
-    "lastUpdated": "2025-12-31T19:57:24.378Z"
+    "lastUpdated": "2026-01-02T12:17:21.134Z"
   },
   "PIXEL_CODES": {
     "facebook": {
@@ -592,7 +592,7 @@ const STORE_CONFIG = {
       "pixelId": "",
       "events": {
         "pageView": true,
-        "addToCart": false,
+        "addToCart": true,
         "purchase": true,
         "initiateCheckout": true,
         "viewContent": true
